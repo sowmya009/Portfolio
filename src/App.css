@@ -158,6 +158,11 @@
   text-align: center;
 }
 
+.projects Button{
+  justify-content: center;
+  text-align: center;
+}
+
 .footer{
   width: 200px;
   text-align: center;
