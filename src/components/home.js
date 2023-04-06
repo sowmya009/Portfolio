@@ -9,7 +9,7 @@ const Home = () => {
                     <p>I m <br/><span>Sowmya Gorripati</span></p>
                     </div>
                 <div className="right-home-container">
-                    <img src="my.jpg" alt="display image" width="400px" height="500px"></img>
+                    <img src="my.jpg" alt="display" width="400px" height="500px"></img>
                 </div>
             </div>
             
