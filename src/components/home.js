@@ -12,6 +12,7 @@ const Home = () => {
                     <img src="my.jpg" alt="display image" width="400px" height="500px"></img>
                 </div>
             </div>
+            
         </>
     );
 }
