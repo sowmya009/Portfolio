@@ -20,7 +20,7 @@ const Projects = () => {
                             </Card.Text>
                             <Button variant="primary">
                                 <a href={a.Github}>More Details</a>
-                                
+                                More Details
                             </Button>
 
                         </Card.Body>
