@@ -19,7 +19,7 @@ const Projects = () => {
                             <Card.Text>{a.text}
                             </Card.Text>
                             <Button variant="primary">
-                                <a href={a.Github} target="_blank"></a>
+                                <a href={a.Github}></a>
                                 More Details
                             </Button>
 
