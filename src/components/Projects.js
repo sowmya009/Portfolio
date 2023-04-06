@@ -19,8 +19,8 @@ const Projects = () => {
                             <Card.Text>{a.text}
                             </Card.Text>
                             <Button variant="primary">
-                                <a href={a.Github}></a>
-                                More Details
+                                <a href={a.Github}>More Details</a>
+                                
                             </Button>
 
                         </Card.Body>
